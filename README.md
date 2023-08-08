@@ -7,8 +7,8 @@
 
 ## Used Technologies
 
-## Project gif
-
 - HTML , Bootstrap , Javascript
+
+## Project gif
 
 ![](/project.gif)
